@@ -63,3 +63,9 @@ All submissions are encouraged to be prepared with D&I in mind following the sug
   - [Jakub Marecek (CVUT)](https://cs.felk.cvut.cz/en/people/marecjak)
   - [Rahul Nair (IBM)](https://research.ibm.com/people/rahul-nair)
   - [Christos Varytimidis (WORKABLE)](https://github.com/christosvar)
+
+- Organized by:
+<a href="https://www.di.uoa.gr/en"><img src="assets/img/logo_en.png" alt="NKUA logo" width="300"></a>
+<a href="https://www.aueb.gr/en/"><img src="assets/img/1_AUEB-pantone-HR.jpeg" alt="AUEB logo" width="500"></a>
+
+- Supported by:
