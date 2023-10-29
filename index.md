@@ -1,3 +1,5 @@
+# 1st Workshop on Fairness in AI
+
 ## About 
 We are gradually moving towards an era in which many decision making policies are supported by Artificial Intelligence (AI) systems. Technologies that apply AI algorithms or utilize AI systems have shown a great proliferation and have significant impact in a lot of aspects of the citizens' everyday life as well as in the industry. The utilization of AI systems in numerous industrial and public service domains is becoming increasingly prevalent in our daily lives. In the contemporary era, Artificial Intelligence drives various systems like recommending content on social media, enabling machine vision in self-driving cars, and determining whether to approve or deny loans for bank clients. These examples vividly illustrate the essential influence of AI algorithms and their potential to shape our lives, significantly impacting the decision-making process. Hence, their effective operation holds vital importance for both individuals and society in its entirety. This workshop aims at discussing such fairness challenges and issues in AI systems and how to address them.
 
@@ -22,10 +24,11 @@ The workshop will accept both regular papers and short papers (work in progress,
 The following are the page limits (excluding references):
 
 ---
-Regular papers:
+Regular papers: () pages
 ---
+
 ---
-Short Papers:
+Short Papers: () pages
 ---
 
 ## Important Dates
