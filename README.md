@@ -1,1 +1,1 @@
-# fairnessinai.github.io
+# 1st Workshop on Fairness in AI
