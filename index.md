@@ -39,12 +39,19 @@ All submissions are encouraged to be prepared with D&I in mind following the sug
 
 ## Keynotes
 
+TBD
+
 ## Invited Talks
+
+TBD
 
 ## Panel
 
+TBD
+
 ## Program
 
+TBD
 
 ## Organization
 
