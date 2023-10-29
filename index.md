@@ -47,3 +47,19 @@ All submissions are encouraged to be prepared with D&I in mind following the sug
 
 
 ## Organization
+
+- Organizers
+  - [Dimitrios Gunopulos (NKUA)](https://www.di.uoa.gr/~dg/)
+  - [Vana Kalogeraki (AUEB)](http://www2.cs.aueb.gr/~vana/)
+  - [Dimitrios Tomaras (AUEB)](https://www2.aueb.gr/users/tomaras/)
+
+- Program Committee
+  - [Dimitrios Gunopulos (NKUA)](https://www.di.uoa.gr/~dg/)
+  - [Vana Kalogeraki (AUEB)](http://www2.cs.aueb.gr/~vana/)
+  - [Dimitrios Tomaras (AUEB)](https://www2.aueb.gr/users/tomaras/)
+  - [Shie Mannor (TECHNION)](https://shie.net.technion.ac.il/)
+  - [Dimitris Fotakis (NTUA)](https://www.ece.ntua.gr/en/staff/180)
+  - [Giorgos Giannopoulos (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/7)
+  - [Jakub Marecek (CVUT)](https://cs.felk.cvut.cz/en/people/marecjak)
+  - [Rahul Nair (IBM)](https://research.ibm.com/people/rahul-nair)
+  - [Christos Varytimidis (WORKABLE)](https://github.com/christosvar)
