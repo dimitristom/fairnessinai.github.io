@@ -31,7 +31,7 @@ All submissions are encouraged to be prepared with D&I in mind following the sug
 
 ## Important Dates
 
-| Action                           | Date              |
+|                             | Date              |
 |:---------------------------------|:------------------|
 |Paper submission Deadline         |                   |
 |Authors Notification              |                   |
