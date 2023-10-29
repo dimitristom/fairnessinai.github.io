@@ -30,7 +30,8 @@ The following are the page limits (excluding references):
 All submissions are encouraged to be prepared with D&I in mind following the suggestions in submission guidelines available <a href="https://icde2024.github.io/di.html" target="_blank">here</a> and <a href="https://dbdni.github.io/" target="_blank">here</a>.
 
 ## Important Dates
-|                                  | Date              |
+
+| Action                           | Date              |
 |:---------------------------------|:------------------|
 |Paper submission Deadline         |                   |
 |Authors Notification              |                   |
