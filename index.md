@@ -23,13 +23,11 @@ The workshop will accept both regular papers and short papers (work in progress,
 
 The following are the page limits (excluding references):
 
----
-Regular papers: () pages
----
+| Regular Papers  | Short Papers      |
+|:----------------|:------------------|
+| x pages         | y pages           |
 
----
-Short Papers: () pages
----
+
 
 ## Important Dates
 
