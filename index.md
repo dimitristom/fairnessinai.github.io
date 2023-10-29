@@ -23,9 +23,9 @@ The workshop will accept both regular papers and short papers (work in progress,
 
 The following are the page limits (excluding references):
 
-| Regular Papers  | Short Papers      |
-|:----------------|:------------------|
-| x pages         | y pages           |
+
+* Regular Papers: x pages
+* Short Papers: y pages
 
 All submissions are encouraged to be prepared with D&I in mind following the suggestions in submission guidelines available <a href="https://icde2024.github.io/di.html" target="_blank">here</a> and <a href="https://dbdni.github.io/" target="_blank">here</a>.
 
