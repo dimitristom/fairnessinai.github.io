@@ -31,6 +31,9 @@ The following are the page limits (excluding references):
 * Regular Papers: 10 pages
 * Short Papers: 6 pages
 
+### Diversity and Inclusion
+
+We value Diversity and Inclusion in our community and profession. Both are important in our writing as well. Be mindful in your writing of not using language or examples that further the marginalization, stereotyping, or erasure of any group of people, especially historically marginalized and/or under-represented groups (URGs) in computing. Also be vigilant and guard against unintentionally exclusionary examples. Reviewers will be empowered to monitor and demand changes if such issues arise. Going further, also consider actively raising the representation of URGs in your writing. Diversity of representation in writing is a simple but visible avenue to celebrate and ultimately help improve our community’s diversity.
 All submissions are encouraged to be prepared with D&I in mind following the suggestions in submission guidelines available <a href="https://icde2024.github.io/di.html" target="_blank">here</a> and <a href="https://dbdni.github.io/" target="_blank">here</a>.
 
 ## Important Dates
