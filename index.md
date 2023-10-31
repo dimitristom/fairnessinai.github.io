@@ -21,8 +21,9 @@ We encourage submissions in various degrees of progress, such as new results, vi
 ## Submission Guidelines
 The workshop will accept both regular papers and short papers (work in progress, vision/outrageous ideas). All submissions must be prepared in accordance with the IEEE template available <a href="https://www.ieee.org/conferences_events/conferences/publishing/templates.html" target="_blank">here</a>. The workshop follows the same rules of Conflicts of Interest (COI) as ICDE 2024.
 
-The following are the page limits (excluding references):
+Paper should be submitted using the Conference Management Tool <a href="https://cmt3.research.microsoft.com/ICDE2024">https://cmt3.research.microsoft.com/ICDE2024</a> and select the "Fairness in AI" workshop.
 
+The following are the page limits (excluding references):
 
 * Regular Papers: 10 pages
 * Short Papers: 6 pages
